@@ -1,4 +1,4 @@
-# Ejemplo Ingeniería de datos utilizando panda
+# Ejemplo Ingeniería de datos utilizando pandas
 
 
 ## Prerrequisitos
