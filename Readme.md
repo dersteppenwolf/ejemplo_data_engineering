@@ -58,3 +58,5 @@ En el navegador aparecerá el entorno de Jupyter lab
 
 Ingrese a la carpeta notebooks y haga la exploración de los archivos que allí encuentre.
 
+* ejemplo_profiling.ipynb  Ejemplo básico de perfilamiento de datos utilizando pandas profiling.
+* ejemplo_excel.ipynb    Ejemplo procesamiendo de archivo excel
